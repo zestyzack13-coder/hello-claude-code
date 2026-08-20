@@ -15,4 +15,4 @@ Run the greeting script:
 python3 hello.py Ada
 ```
 
-It will recieve a name and print a friendly greeting back.
+It will receive a name and print a friendly greeting back.
